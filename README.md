@@ -1,2 +1,2 @@
-# tn.timbu
-supertimbu
+# tntimbu
+labtntimbu
